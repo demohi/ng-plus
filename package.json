@@ -1,0 +1,22 @@
+{
+  "name": "ngplus",
+  "version": "0.0.0",
+  "description": "AngularJS h5plus wrappers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/demohi/ng-plus.git"
+  },
+  "keywords": [
+    "ngplus"
+  ],
+  "author": "mdemo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/demohi/ng-plus/issues"
+  },
+  "homepage": "https://github.com/demohi/ng-plus"
+}

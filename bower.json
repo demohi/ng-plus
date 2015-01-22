@@ -1,0 +1,25 @@
+{
+  "name": "ng-plus",
+  "version": "0.0.0",
+  "homepage": "https://github.com/demohi/ng-plus",
+  "authors": [
+    "mdemo <mengdesen09@qq.com>"
+  ],
+  "description": "AngularJS h5plus wrappers",
+  "main": "./dist/ng-plus.js",
+  "keywords": [
+    "ngplus",
+    "ng-plus",
+    "phonegap",
+    "ng-cordova"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
